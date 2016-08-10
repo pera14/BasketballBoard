@@ -1,0 +1,21 @@
+.button {
+    display: inline-block;
+    position: relative;
+    margin: 10px;
+    padding: 0 20px;
+    text-align: center;
+    text-decoration: none;
+    font: bold 12px/25px Arial, sans-serif;
+}
+.green {
+    color: #3e5706;
+    background: #a5cd4e;
+}
+.blue {
+    color: #19667d;
+    background: #70c9e3;
+}
+.gray {
+    color: #515151;
+    background: #d3d3d3;
+}
